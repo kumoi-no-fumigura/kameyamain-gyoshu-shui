@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kameyamain-gyoshu-shui",
  "yomi": "かめやまいんぎょしゅうしゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集（拾遺）",
+  "era": "鎌倉後期",
+  "author": "亀山院",
+  "desc": "亀山院の歌のうち、御集に漏れたものを勅撰集などから集めた拾遺。続古今集・続千載集などの集名を注し、詞書から西園寺や神社への御幸の折の詠などが分かる。"
+ },
  "editions": [
   {
    "pid": "945300",
